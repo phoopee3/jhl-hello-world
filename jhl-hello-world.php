@@ -3,6 +3,7 @@
  * Plugin Name: JHL Hello World Plugin
  * Plugin URI: https://jasonlawton.com/plugins/hello-world
  * GitHub Plugin URI: https://github.com/phoopee3/jhl-hello-world
+ * Primary Branch: main
  * Description: A simple plugin that displays "Hello World" in the admin bar.
  * Version: 1.2
  * Author: Jason Lawton
