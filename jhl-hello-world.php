@@ -5,7 +5,7 @@
  * GitHub Plugin URI: https://github.com/phoopee3/jhl-hello-world
  * Primary Branch: main
  * Description: A simple plugin that displays "Hello World" in the admin bar.
- * Version: 1.4
+ * Version: 1.5
  * Author: Jason Lawton
  * Author URI: https://jasonlawton.com
  * License: GPL2
