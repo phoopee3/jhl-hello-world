@@ -5,7 +5,7 @@
  * GitHub Plugin URI: https://github.com/phoopee3/jhl-hello-world
  * Primary Branch: main
  * Description: A simple plugin that displays "Hello World" in the admin bar.
- * Version: 1.3
+ * Version: 1.4
  * Author: Jason Lawton
  * Author URI: https://jasonlawton.com
  * License: GPL2
@@ -17,7 +17,7 @@ function hello_world_admin_bar() {
     global $wp_admin_bar;
     $wp_admin_bar->add_menu( array(
         'id'    => 'hello-world',
-        'title' => 'Hello World 1.3',
+        'title' => 'Hello World 1.4',
         'href'  => '#',
     ) );
 }
